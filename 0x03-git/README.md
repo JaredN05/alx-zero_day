@@ -1,1 +1,7 @@
-Repo-session
+# 0x03. Git
+# Tasks
+## 0. Create and setup your Git and GitHub account
+## Repo-session
+## Coding fury road
+## Collaboration is the base of a company
+## Collaboration: be up to date
